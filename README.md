@@ -5,7 +5,7 @@
 ## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_2)
 
 ### Home Screen
-<img src="https://github.com/nextpagetech/React-JS-Blueberry-Theme-2-Free/blob/master/home_screen.jpeg" alt='Home Screen' width='100%' height='100%' />
+<img src="https://github.com/nextpagetech/React-JS-Blueberry-Theme-2-Free/blob/master/home_screen2.jpeg" alt='Home Screen' width='100%' height='100%' />
 
 ### About Us Screen
 
